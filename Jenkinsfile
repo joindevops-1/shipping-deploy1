@@ -11,7 +11,7 @@ properties([
 // Build configMap from params (with safe defaults)
 def configMap = [
   project    : "roboshop",
-  component  : "user",
+  component  : "shipping",
   deploy_to: (params.deploy_to       ?: 'dev'),
   appVersion : (params.appVersion)
 ]

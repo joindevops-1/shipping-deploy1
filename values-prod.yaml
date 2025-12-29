@@ -1,4 +1,4 @@
 configMap:
-  REDIS_URL: "redis://redis:6379"
-  MONGO_URL: "mongodb://mongodb:27017/users"
+  CART_ENDPOINT: "cart:8080"
+  DB_HOST: "mysql"
 

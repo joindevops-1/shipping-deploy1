@@ -1,5 +1,5 @@
 apiVersion: v2
-name: user # chart name
+name: shipping # chart name
 version:  1.0.0 # chart version
-description: user installation
+description: shipping installation
 appVersion: v1 # this is application version
