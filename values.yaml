@@ -1,0 +1,5 @@
+deployment:
+  imageRepo: joindevops/user
+  imageVersion: IMAGE_VERSION
+service:
+  servicePort: 8080 # default value
